@@ -1,0 +1,16 @@
+torch
+jupyterlab
+numpy
+pandas
+scipy
+
+pytorch-lightning
+scikit-learn
+dtreeviz
+
+matplotlib
+seaborn
+
+ipywidgets
+
+
